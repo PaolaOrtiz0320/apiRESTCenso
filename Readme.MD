@@ -1,16 +1,16 @@
 ## Tecnologico Nacional de Mexico Campus Pachuca 
 ## Carrera:
- # Ing. en Tic´s
+ Ing. en Tic´s
 ## Materia: 
- # Desarrollo de Software Avanzado
+ Desarrollo de Software Avanzado
 ## Tema:
- # webApi  apiRESTCenso
+ #webApi  apiRESTCenso
  ## Catedratico:
- # Luis Alejandro Santana Valadez
+ Luis Alejandro Santana Valadez
  ## Estudiante:
- # Gabriela Paola Ortiz Velazquez 21200659
+ Gabriela Paola Ortiz Velazquez 21200659
  ## Fecha:
- # 03/03/2025
+ 03/03/2025
 
 
 # Conclusion
